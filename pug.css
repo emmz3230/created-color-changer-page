@@ -1,0 +1,18 @@
+.container{
+    display:flex;
+    justify-content:center;
+    align-items: center;
+    background-color: hsl(var(--h), 80%, 33%);
+    height: 70vh;
+    width: 100vw;
+}
+.display{
+    font-size: 100px ;
+    font-family:sans-serif;
+    contain: paint;
+
+}
+.degree{
+font-size:.1em;
+font-variant-numeric: tabular-nums;
+}
